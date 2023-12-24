@@ -1,2 +1,4 @@
 # git_course
-lern git 
+## lern git
+### github
+notes
